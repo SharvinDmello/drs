@@ -1,0 +1,219 @@
+{
+  "questions": [
+    {
+      "question": "What is the next number in the series: 2, 5, 10, 17, ?",
+      "options": ["26", "24", "30", "23"],
+      "answer": 0
+    },
+    {
+      "question": "A person travels 30 km towards the east, then turns north and travels 40 km. How far is he from the starting point?",
+      "options": ["50 km", "70 km", "90 km", "20 km"],
+      "answer": 0
+    },
+    {
+      "question": "If 5 workers can finish a job in 10 days, how many days will 10 workers take to finish the same job?",
+      "options": ["5 days", "10 days", "20 days", "15 days"],
+      "answer": 0
+    },
+    {
+      "question": "The sum of three consecutive numbers is 48. What is the middle number?",
+      "options": ["15", "16", "14", "17"],
+      "answer": 1
+    },
+    {
+      "question": "If the area of a square is 64, what is the length of one side?",
+      "options": ["6", "7", "8", "9"],
+      "answer": 2
+    },
+    {
+      "question": "A car travels 120 km in 2 hours. What is its average speed?",
+      "options": ["60 km/h", "50 km/h", "40 km/h", "30 km/h"],
+      "answer": 0
+    },
+    {
+      "question": "If a book is sold at a 20% discount and the selling price is $240, what was the original price?",
+      "options": ["$300", "$320", "$250", "$280"],
+      "answer": 0
+    },
+    {
+      "question": "What is the ratio of the circumference of a circle to its diameter?",
+      "options": ["2", "3.14", "1", "4"],
+      "answer": 1
+    },
+    {
+      "question": "A train moves at a speed of 60 km/h. How much distance will it cover in 30 minutes?",
+      "options": ["30 km", "60 km", "90 km", "120 km"],
+      "answer": 0
+    },
+    {
+      "question": "If the ratio of boys to girls in a class is 5:4 and there are 45 boys, how many girls are there?",
+      "options": ["36", "40", "50", "45"],
+      "answer": 0
+    },
+    {
+      "question": "A person invests $5000 at 5% simple interest per annum. How much interest will he earn in 2 years?",
+      "options": ["$500", "$200", "$250", "$400"],
+      "answer": 0
+    },
+    {
+      "question": "The average of five consecutive numbers is 25. What is the largest of these numbers?",
+      "options": ["27", "28", "29", "30"],
+      "answer": 2
+    },
+    {
+      "question": "A man can complete a task in 6 days and his son can complete the same task in 12 days. How long will it take for both to finish the task together?",
+      "options": ["4 days", "3 days", "5 days", "6 days"],
+      "answer": 0
+    },
+    {
+      "question": "The sum of two numbers is 80, and their difference is 20. What are the numbers?",
+      "options": ["50 and 30", "60 and 20", "55 and 25", "45 and 35"],
+      "answer": 0
+    },
+    {
+      "question": "A person sells a pen for $80 and makes a profit of 20%. What is the cost price of the pen?",
+      "options": ["$70", "$60", "$75", "$65"],
+      "answer": 3
+    },
+    {
+      "question": "If a car covers a distance of 120 km in 3 hours, what is its average speed?",
+      "options": ["35 km/h", "40 km/h", "45 km/h", "50 km/h"],
+      "answer": 1
+    },
+    {
+      "question": "If the perimeter of a rectangle is 36 meters and the length is 10 meters, what is the width?",
+      "options": ["8 meters", "7 meters", "6 meters", "5 meters"],
+      "answer": 0
+    },
+    {
+      "question": "What is the next number in the series: 3, 9, 27, 81, ?",
+      "options": ["243", "256", "225", "300"],
+      "answer": 0
+    },
+    {
+      "question": "If 7x + 5 = 40, what is the value of x?",
+      "options": ["5", "6", "4", "7"],
+      "answer": 0
+    },
+    {
+      "question": "A person travels 20 km towards the north, then turns east and travels 20 km. How far is he from his starting point?",
+      "options": ["20 km", "40 km", "25 km", "30 km"],
+      "answer": 3
+    },
+    {
+      "question": "In a class of 60 students, 40% are boys. How many girls are there in the class?",
+      "options": ["36", "24", "25", "30"],
+      "answer": 1
+    },
+    {
+      "question": "If the cost price of 15 items is $600, what is the cost price of 20 items?",
+      "options": ["$800", "$1000", "$1200", "$1500"],
+      "answer": 0
+    },
+    {
+      "question": "What is the area of a triangle with a base of 10 cm and a height of 5 cm?",
+      "options": ["25 cm²", "50 cm²", "15 cm²", "20 cm²"],
+      "answer": 0
+    },
+    {
+      "question": "The difference between two numbers is 10, and their sum is 60. What is the larger number?",
+      "options": ["35", "40", "45", "50"],
+      "answer": 0
+    },
+    {
+      "question": "If the price of an item increases by 10% and the new price is $110, what was the original price?",
+      "options": ["$100", "$90", "$95", "$105"],
+      "answer": 0
+    },
+    {
+      "question": "A man walks 4 km towards the north, then turns right and walks 3 km. How far is he from his starting point?",
+      "options": ["5 km", "6 km", "7 km", "4 km"],
+      "answer": 0
+    },
+    {
+      "question": "If a product costs $60 after a 25% discount, what was its original price?",
+      "options": ["$80", "$90", "$100", "$120"],
+      "answer": 0
+    },
+    {
+      "question": "A person can complete a task in 5 days. How many days will it take for him to complete 3 tasks?",
+      "options": ["15 days", "10 days", "5 days", "20 days"],
+      "answer": 0
+    },
+    {
+      "question": "A shopkeeper sells an item for $150 and makes a profit of 25%. What is the cost price of the item?",
+      "options": ["$120", "$100", "$130", "$110"],
+      "answer": 0
+    },
+    {
+      "question": "The sum of three consecutive numbers is 72. What is the middle number?",
+      "options": ["23", "24", "25", "26"],
+      "answer": 1
+    },
+    {
+      "question": "What is the average of the first 10 natural numbers?",
+      "options": ["5.5", "6", "5", "7"],
+      "answer": 0
+    },
+    {
+      "question": "A sum of money grows at an interest rate of 5% per annum. If the principal amount is $1000, what will be the amount after 3 years?",
+      "options": ["$1150", "$1200", "$1250", "$1300"],
+      "answer": 0
+    },
+    {
+      "question": "What is the sum of the interior angles of a hexagon?",
+      "options": ["540°", "720°", "360°", "1080°"],
+      "answer": 1
+    },
+    {
+      "question": "The average of five consecutive numbers is 25. What is the smallest number?",
+      "options": ["23", "24", "25", "26"],
+      "answer": 0
+    },
+    {
+      "question": "A tank can be filled by pipe A in 10 hours and by pipe B in 15 hours. If both pipes are open, how long will it take to fill the tank?",
+      "options": ["6 hours", "5 hours", "4 hours", "3 hours"],
+      "answer": 0
+    },
+    {
+      "question": "In a group of 60 people, 40% are women. How many men are there?",
+      "options": ["36", "24", "30", "40"],
+      "answer": 0
+    },
+    {
+      "question": "If a discount of 20% is given on an item worth $200, what is the selling price?",
+      "options": ["$160", "$180", "$200", "$150"],
+      "answer": 0
+    },
+    {
+      "question": "What is the value of 12²?",
+      "options": ["144", "121", "100", "169"],
+      "answer": 0
+    },
+    {
+      "question": "If a number is divisible by both 4 and 6, what is the smallest number that can be divisible by both?",
+      "options": ["12", "24", "36", "48"],
+      "answer": 0
+    },
+    {
+      "question": "If a circle has a radius of 7 cm, what is its diameter?",
+      "options": ["10 cm", "12 cm", "14 cm", "16 cm"],
+      "answer": 0
+    },
+    {
+      "question": "If 4 workers can finish a job in 12 days, how long will 8 workers take to finish the same job?",
+      "options": ["6 days", "8 days", "4 days", "2 days"],
+      "answer": 0
+    },
+    {
+      "question": "A person takes 10 seconds to cover 50 meters. What is his speed?",
+      "options": ["5 m/s", "10 m/s", "8 m/s", "6 m/s"],
+      "answer": 0
+    },
+    {
+      "question": "What is the next number in the series: 2, 6, 12, 20, ?",
+      "options": ["30", "24", "26", "28"],
+      "answer": 0
+    }
+  ]
+}

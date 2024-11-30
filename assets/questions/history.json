@@ -1,0 +1,204 @@
+{
+  "questions": [
+    {
+      "question": "Who was the first Emperor of the Maurya Dynasty?",
+      "options": ["Ashoka", "Chandragupta Maurya", "Bindusara", "Bimbisara"],
+      "answer": 1
+    },
+    {
+      "question": "Which was the capital of the Gupta Empire?",
+      "options": ["Pataliputra", "Ujjain", "Magadha", "Kannauj"],
+      "answer": 0
+    },
+    {
+      "question": "Who founded the Mughal Empire in India?",
+      "options": ["Akbar", "Babur", "Shah Jahan", "Aurangzeb"],
+      "answer": 1
+    },
+    {
+      "question": "Which Indian leader is known as the 'Iron Man of India'?",
+      "options": ["Lal Bahadur Shastri", "Sardar Vallabhbhai Patel", "Jawaharlal Nehru", "Mahatma Gandhi"],
+      "answer": 1
+    },
+    {
+      "question": "Who was the last ruler of the Gupta Empire?",
+      "options": ["Skandagupta", "Chandragupta I", "Samudragupta", "Vikramaditya"],
+      "answer": 0
+    },
+    {
+      "question": "The famous battle of Panipat was fought in which year?",
+      "options": ["1526", "1556", "1761", "1803"],
+      "answer": 2
+    },
+    {
+      "question": "Who was the first woman ruler of India?",
+      "options": ["Rani Lakshmibai", "Razia Sultana", "Indira Gandhi", "Kundavai"],
+      "answer": 1
+    },
+    {
+      "question": "The first war of independence in India took place in which year?",
+      "options": ["1857", "1947", "1825", "1856"],
+      "answer": 0
+    },
+    {
+      "question": "Who is known as the father of the Indian Renaissance?",
+      "options": ["Raja Ram Mohan Roy", "Swami Vivekananda", "Rabindranath Tagore", "Bhagat Singh"],
+      "answer": 0
+    },
+    {
+      "question": "Who wrote the 'Puranas' in ancient India?",
+      "options": ["Vyasa", "Valmiki", "Kautilya", "Kalidasa"],
+      "answer": 0
+    },
+    {
+      "question": "Who was the founder of the Maurya Empire?",
+      "options": ["Chandragupta Maurya", "Ashoka", "Bindusara", "Chandragupta I"],
+      "answer": 0
+    },
+    {
+      "question": "Which famous Indian leader was exiled to Andaman Islands?",
+      "options": ["Bhagat Singh", "Subhas Chandra Bose", "Veer Savarkar", "Lala Lajpat Rai"],
+      "answer": 2
+    },
+    {
+      "question": "The famous Jallianwala Bagh massacre took place in which city?",
+      "options": ["Delhi", "Amritsar", "Lahore", "Chandigarh"],
+      "answer": 1
+    },
+    {
+      "question": "Which ruler built the Qutub Minar?",
+      "options": ["Shah Jahan", "Akbar", "Iltutmish", "Babur"],
+      "answer": 2
+    },
+    {
+      "question": "Who is known as the 'Nightingale of India'?",
+      "options": ["Sarojini Naidu", "Indira Gandhi", "Rani Lakshmibai", "Annie Besant"],
+      "answer": 0
+    },
+    {
+      "question": "Which Indian emperor embraced Buddhism after the Kalinga War?",
+      "options": ["Ashoka", "Chandragupta Maurya", "Samudragupta", "Harsha"],
+      "answer": 0
+    },
+    {
+      "question": "Who was the founder of the Sikh Empire?",
+      "options": ["Ranjit Singh", "Guru Nanak", "Banda Singh Bahadur", "Hari Singh Nalwa"],
+      "answer": 0
+    },
+    {
+      "question": "Who was the first to use the title 'Chakravarti'?",
+      "options": ["Ashoka", "Chandragupta Maurya", "Kanishka", "Samudragupta"],
+      "answer": 0
+    },
+    {
+      "question": "The famous Ajanta Caves are located in which state?",
+      "options": ["Maharashtra", "Uttar Pradesh", "Tamil Nadu", "Karnataka"],
+      "answer": 0
+    },
+    {
+      "question": "Who was the first female president of the Indian National Congress?",
+      "options": ["Sarojini Naidu", "Annie Besant", "Indira Gandhi", "Kamini Roy"],
+      "answer": 0
+    },
+    {
+      "question": "Who was the first Governor-General of independent India?",
+      "options": ["Lord Mountbatten", "C. Rajagopalachari", "Jawaharlal Nehru", "Rajendra Prasad"],
+      "answer": 1
+    },
+    {
+      "question": "The battle of Plassey was fought in which year?",
+      "options": ["1757", "1780", "1803", "1824"],
+      "answer": 0
+    },
+    {
+      "question": "Who was the first woman to become the Prime Minister of India?",
+      "options": ["Indira Gandhi", "Sarojini Naidu", "Pratibha Patil", "Kamaladevi Chattopadhyay"],
+      "answer": 0
+    },
+    {
+      "question": "The Sati system was abolished by which social reformer?",
+      "options": ["Raja Ram Mohan Roy", "Swami Vivekananda", "B.R. Ambedkar", "Ishwar Chandra Vidyasagar"],
+      "answer": 0
+    },
+    {
+      "question": "Who was the first king of the Mauryan Empire?",
+      "options": ["Chandragupta Maurya", "Ashoka", "Bindusara", "Samudragupta"],
+      "answer": 0
+    },
+    {
+      "question": "The Vedic period in Indian history is also known as the age of:",
+      "options": ["Philosophy", "Architecture", "Literature", "Religion"],
+      "answer": 3
+    },
+    {
+      "question": "Who led the Quit India Movement in 1942?",
+      "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Subhas Chandra Bose", "Lal Bahadur Shastri"],
+      "answer": 0
+    },
+    {
+      "question": "Who was the first emperor of the Mughal dynasty?",
+      "options": ["Babur", "Akbar", "Shah Jahan", "Aurangzeb"],
+      "answer": 0
+    },
+    {
+      "question": "Which was the capital of the Maurya Empire?",
+      "options": ["Pataliputra", "Magadha", "Kashi", "Ujjain"],
+      "answer": 0
+    },
+    {
+      "question": "In which year did India gain independence from British rule?",
+      "options": ["1947", "1930", "1857", "1905"],
+      "answer": 0
+    },
+    {
+      "question": "Who was the first Indian to become the President of the Indian National Congress?",
+      "options": ["Womesh Chunder Bonnerjee", "Dadabhai Naoroji", "Lal Lajpat Rai", "Subhas Chandra Bose"],
+      "answer": 0
+    },
+    {
+      "question": "Which Mughal emperor is known for his religious tolerance?",
+      "options": ["Akbar", "Aurangzeb", "Shah Jahan", "Babur"],
+      "answer": 0
+    },
+    {
+      "question": "The famous Ajanta and Ellora caves are located in which state?",
+      "options": ["Maharashtra", "Gujarat", "Karnataka", "Madhya Pradesh"],
+      "answer": 0
+    },
+    {
+      "question": "Who was the last ruler of the Gupta Empire?",
+      "options": ["Skandagupta", "Chandragupta I", "Samudragupta", "Vikramaditya"],
+      "answer": 0
+    },
+    {
+      "question": "Who was the first to fight the British in India during the Indian Rebellion of 1857?",
+      "options": ["Mangal Pandey", "Tatya Tope", "Rani Lakshmibai", "Bahadur Shah Zafar"],
+      "answer": 0
+    },
+    {
+      "question": "Who was the first Muslim ruler of India?",
+      "options": ["Qutb-ud-Din Aibak", "Muhammad Ghori", "Babar", "Akbar"],
+      "answer": 0
+    },
+    {
+      "question": "Who was the founder of the Maratha Empire?",
+      "options": ["Shivaji Maharaj", "Shivaji I", "Shivaji II", "Baji Rao"],
+      "answer": 0
+    },
+    {
+      "question": "Who among the following was known as the ‘Lion of Punjab’?",
+      "options": ["Lala Lajpat Rai", "Bhagat Singh", "Subhas Chandra Bose", "Sardar Bhagat Singh"],
+      "answer": 0
+    },
+    {
+      "question": "Which freedom fighter is known as the 'Father of the Indian Army'?",
+      "options": ["Subhas Chandra Bose", "Mahatma Gandhi", "Sardar Vallabhbhai Patel", "Chandrasekhar Azad"],
+      "answer": 0
+    },
+    {
+      "question": "The first battle of Panipat was fought in which year?",
+      "options": ["1526", "1556", "1576", "1600"],
+      "answer": 0
+    }
+  ]
+}

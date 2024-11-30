@@ -1,0 +1,160 @@
+{
+  "questions": [
+    {
+      "question": "What is the rank of a matrix?",
+      "options": ["The number of rows", "The number of columns", "The maximum number of linearly independent rows or columns", "None of the above"],
+      "answer": 2,
+      "explanation": "The rank of a matrix is the maximum number of linearly independent rows or columns."
+    },
+    {
+      "question": "What is a vector space?",
+      "options": ["A set of vectors that is closed under addition and scalar multiplication", "A set of numbers", "A set of points in the plane", "None of the above"],
+      "answer": 0,
+      "explanation": "A vector space is a set of vectors that is closed under addition and scalar multiplication."
+    },
+    {
+      "question": "What is a scalar?",
+      "options": ["A vector", "A matrix", "A number", "A set of numbers"],
+      "answer": 2,
+      "explanation": "A scalar is a single number, as opposed to a vector or matrix."
+    },
+    {
+      "question": "Which of the following is true about the determinant of a matrix?",
+      "options": ["It can be negative", "It is always positive", "It is always zero", "It can be either positive, negative, or zero"],
+      "answer": 3,
+      "explanation": "The determinant of a matrix can be positive, negative, or zero."
+    },
+    {
+      "question": "What does it mean for a matrix to be invertible?",
+      "options": ["It is a square matrix", "Its determinant is zero", "Its determinant is non-zero", "It is a diagonal matrix"],
+      "answer": 2,
+      "explanation": "A matrix is invertible if and only if its determinant is non-zero."
+    },
+    {
+      "question": "Which of the following operations is used to find the inverse of a matrix?",
+      "options": ["Addition", "Subtraction", "Multiplication", "Gauss-Jordan elimination"],
+      "answer": 3,
+      "explanation": "Gauss-Jordan elimination is a method used to find the inverse of a matrix."
+    },
+    {
+      "question": "What is an eigenvalue?",
+      "options": ["A scalar associated with a matrix", "A vector associated with a matrix", "A matrix that represents a transformation", "None of the above"],
+      "answer": 0,
+      "explanation": "An eigenvalue is a scalar that characterizes the scaling factor by which an eigenvector is stretched or shrunk during a linear transformation."
+    },
+    {
+      "question": "What is the dot product of two vectors?",
+      "options": ["A scalar", "A vector", "A matrix", "None of the above"],
+      "answer": 0,
+      "explanation": "The dot product of two vectors results in a scalar."
+    },
+    {
+      "question": "Which of the following is a property of matrix multiplication?",
+      "options": ["Commutative", "Associative", "Distributive", "Both b and c"],
+      "answer": 3,
+      "explanation": "Matrix multiplication is associative and distributive but not commutative."
+    },
+    {
+      "question": "What is the rank of the identity matrix?",
+      "options": ["0", "1", "Equal to the size of the matrix", "Equal to the number of non-zero elements"],
+      "answer": 2,
+      "explanation": "The rank of the identity matrix is equal to the size of the matrix."
+    },
+    {
+      "question": "What does it mean for two matrices to be equal?",
+      "options": ["They must have the same number of rows", "They must have the same number of columns", "They must have the same dimensions", "All of the above"],
+      "answer": 3,
+      "explanation": "Two matrices are equal if they have the same dimensions and corresponding elements are equal."
+    },
+    {
+      "question": "Which of the following is true about an orthogonal matrix?",
+      "options": ["It is a square matrix", "Its rows are orthogonal to each other", "Its columns are orthogonal to each other", "All of the above"],
+      "answer": 3,
+      "explanation": "An orthogonal matrix is a square matrix whose rows and columns are orthogonal to each other."
+    },
+    {
+      "question": "What is a singular matrix?",
+      "options": ["A matrix with non-zero determinant", "A matrix that is not square", "A matrix with zero determinant", "A matrix with all zero elements"],
+      "answer": 2,
+      "explanation": "A singular matrix is one that has a zero determinant and therefore is not invertible."
+    },
+    {
+      "question": "What is the rank of a diagonal matrix?",
+      "options": ["It is the number of non-zero diagonal elements", "It is always 1", "It is the sum of diagonal elements", "None of the above"],
+      "answer": 0,
+      "explanation": "The rank of a diagonal matrix is the number of non-zero diagonal elements."
+    },
+    {
+      "question": "What is the trace of a matrix?",
+      "options": ["The sum of all elements in the matrix", "The sum of the diagonal elements", "The determinant of the matrix", "None of the above"],
+      "answer": 1,
+      "explanation": "The trace of a matrix is the sum of its diagonal elements."
+    },
+    {
+      "question": "What does it mean for a system of linear equations to be inconsistent?",
+      "options": ["It has no solution", "It has one solution", "It has infinitely many solutions", "None of the above"],
+      "answer": 0,
+      "explanation": "A system of linear equations is inconsistent if it has no solution."
+    },
+    {
+      "question": "What is the purpose of Gaussian elimination?",
+      "options": ["To find the eigenvalues of a matrix", "To solve a system of linear equations", "To compute the determinant of a matrix", "None of the above"],
+      "answer": 1,
+      "explanation": "Gaussian elimination is a method used to solve systems of linear equations."
+    },
+    {
+      "question": "What is the condition for a matrix to be diagonalizable?",
+      "options": ["It must have distinct eigenvalues", "It must be symmetric", "It must be square", "None of the above"],
+      "answer": 0,
+      "explanation": "A matrix is diagonalizable if it has distinct eigenvalues."
+    },
+    {
+      "question": "What is the inverse of a diagonal matrix?",
+      "options": ["A diagonal matrix", "A zero matrix", "A matrix with elements equal to the reciprocal of the diagonal elements", "None of the above"],
+      "answer": 2,
+      "explanation": "The inverse of a diagonal matrix is also a diagonal matrix with elements equal to the reciprocal of the diagonal elements."
+    },
+    {
+      "question": "Which of the following is true about eigenvectors?",
+      "options": ["They are non-zero vectors", "They lie along the direction of transformation", "They are scaled by the eigenvalue", "All of the above"],
+      "answer": 3,
+      "explanation": "Eigenvectors are non-zero vectors that lie along the direction of transformation and are scaled by the eigenvalue."
+    },
+    {
+      "question": "What does the Gram-Schmidt process do?",
+      "options": ["It finds the determinant of a matrix", "It orthogonalizes a set of vectors", "It solves a system of linear equations", "None of the above"],
+      "answer": 1,
+      "explanation": "The Gram-Schmidt process is used to orthogonalize a set of vectors."
+    },
+    {
+      "question": "What is a symmetric matrix?",
+      "options": ["A matrix that is equal to its transpose", "A matrix that is diagonal", "A matrix with only zero elements", "None of the above"],
+      "answer": 0,
+      "explanation": "A symmetric matrix is one that is equal to its transpose."
+    },
+    {
+      "question": "What does it mean for a set of vectors to be linearly independent?",
+      "options": ["They can be written as a linear combination of each other", "None of them can be written as a linear combination of the others", "They are parallel to each other", "None of the above"],
+      "answer": 1,
+      "explanation": "A set of vectors is linearly independent if none of them can be written as a linear combination of the others."
+    },
+    {
+      "question": "What is the null space of a matrix?",
+      "options": ["The set of all possible solutions to the equation Ax = 0", "The set of all eigenvalues", "The set of all diagonal elements", "None of the above"],
+      "answer": 0,
+      "explanation": "The null space of a matrix is the set of all possible solutions to the equation Ax = 0."
+    },
+    {
+      "question": "What is a Hermitian matrix?",
+      "options": ["A matrix that is equal to its conjugate transpose", "A matrix with all real entries", "A matrix with only complex entries", "None of the above"],
+      "answer": 0,
+      "explanation": "A Hermitian matrix is one that is equal to its conjugate transpose."
+    },
+    {
+      "question": "What is the column space of a matrix?",
+      "options": ["The set of all linear combinations of the columns of the matrix", "The set of all solutions to the equation Ax = b", "The set of all eigenvectors", "None of the above"],
+      "answer": 0,
+      "explanation": "The column space of a matrix is the set of all linear combinations of the columns of the matrix."
+    }
+  ]
+}

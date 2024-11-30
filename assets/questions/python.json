@@ -1,0 +1,166 @@
+{
+  "questions": [
+    {
+      "question": "What is the output of the following code: print(2 + 3 * 4)?",
+      "options": ["14", "20", "11", "24"],
+      "answer": 0,
+      "explanation": "According to the order of operations (PEMDAS), multiplication is done first, so 3 * 4 = 12, and then 2 + 12 = 14."
+    },
+    {
+      "question": "Which of the following data types is immutable in Python?",
+      "options": ["List", "Tuple", "Set", "Dictionary"],
+      "answer": 1,
+      "explanation": "Tuples are immutable, meaning their values cannot be changed after creation."
+    },
+    {
+      "question": "How do you create a dictionary in Python?",
+      "options": ["dict = {}", "dict = []", "dict = ()", "dict = set()"],
+      "answer": 0,
+      "explanation": "A dictionary in Python is created using curly braces {}, where keys and values are stored in key-value pairs."
+    },
+    {
+      "question": "What is the output of len('Python')?",
+      "options": ["6", "7", "8", "5"],
+      "answer": 0,
+      "explanation": "The string 'Python' has 6 characters, so len('Python') will return 6."
+    },
+    {
+      "question": "What is the correct syntax for defining a function in Python?",
+      "options": ["def function_name():", "function function_name():", "function_name() def:", "def: function_name()"],
+      "answer": 0,
+      "explanation": "In Python, a function is defined using the 'def' keyword followed by the function name and parentheses."
+    },
+    {
+      "question": "What will be the output of the following code: print('Hello'.upper())?",
+      "options": ["HELLO", "hello", "Hello", "None of the above"],
+      "answer": 0,
+      "explanation": "The upper() method converts all characters of the string to uppercase."
+    },
+    {
+      "question": "Which of the following is the correct way to write a comment in Python?",
+      "options": ["# This is a comment", "// This is a comment", "/ This is a comment", "/* This is a comment */"],
+      "answer": 0,
+      "explanation": "In Python, comments are written using the '#' symbol."
+    },
+    {
+      "question": "What does the 'continue' statement do in a loop?",
+      "options": ["Exits the loop", "Skips the current iteration and moves to the next iteration", "Pauses the loop", "None of the above"],
+      "answer": 1,
+      "explanation": "The 'continue' statement skips the current iteration of the loop and moves to the next iteration."
+    },
+    {
+      "question": "What will the following code return: len([1, 2, 3, 4])?",
+      "options": ["4", "5", "3", "6"],
+      "answer": 0,
+      "explanation": "The len() function returns the number of elements in the list, which in this case is 4."
+    },
+    {
+      "question": "What is the keyword used to handle exceptions in Python?",
+      "options": ["try", "catch", "except", "handle"],
+      "answer": 2,
+      "explanation": "In Python, exceptions are handled using the 'except' keyword, typically after a 'try' block."
+    },
+    {
+      "question": "Which of the following methods is used to add an element to the end of a list in Python?",
+      "options": ["append()", "insert()", "extend()", "push()"],
+      "answer": 0,
+      "explanation": "The append() method is used to add an element to the end of a list."
+    },
+    {
+      "question": "What will be the output of this code: print(5 == 5)?",
+      "options": ["True", "False", "5", "None of the above"],
+      "answer": 0,
+      "explanation": "The expression 5 == 5 evaluates to True, as both values are equal."
+    },
+    {
+      "question": "Which of the following is the correct way to import a module in Python?",
+      "options": ["import module_name", "import(module_name)", "include module_name", "use module_name"],
+      "answer": 0,
+      "explanation": "In Python, modules are imported using the 'import' keyword followed by the module name."
+    },
+    {
+      "question": "Which of the following is not a valid Python keyword?",
+      "options": ["return", "def", "else", "value"],
+      "answer": 3,
+      "explanation": "'value' is not a Python keyword. The other options are valid Python keywords."
+    },
+    {
+      "question": "How can you check the type of a variable in Python?",
+      "options": ["type(variable)", "typeof(variable)", "var_type(variable)", "None of the above"],
+      "answer": 0,
+      "explanation": "The type() function is used to check the type of a variable in Python."
+    },
+    {
+      "question": "Which of the following is the correct syntax for defining a class in Python?",
+      "options": ["class ClassName:", "class = ClassName:", "define ClassName:", "class(ClassName):"],
+      "answer": 0,
+      "explanation": "Classes in Python are defined using the 'class' keyword followed by the class name and a colon."
+    },
+    {
+      "question": "What is the output of print(3 * 'ab')?",
+      "options": ["ababab", "ab", "aaabbb", "None of the above"],
+      "answer": 0,
+      "explanation": "The expression 3 * 'ab' repeats the string 'ab' three times, resulting in 'ababab'."
+    },
+    {
+      "question": "What is the output of print(2 ** 3)?",
+      "options": ["6", "8", "16", "9"],
+      "answer": 1,
+      "explanation": "The operator '**' is used for exponentiation, so 2 ** 3 equals 8."
+    },
+    {
+      "question": "Which of the following methods is used to remove an element from a list by value in Python?",
+      "options": ["remove()", "pop()", "del", "clear()"],
+      "answer": 0,
+      "explanation": "The remove() method removes the first occurrence of a specified value from the list."
+    },
+    {
+      "question": "What will be the output of the following code: print(5 / 2)?",
+      "options": ["2", "2.5", "3", "5"],
+      "answer": 1,
+      "explanation": "The '/' operator performs floating-point division, so 5 / 2 equals 2.5."
+    },
+    {
+      "question": "Which of the following functions is used to convert a string to lowercase in Python?",
+      "options": ["lower()", "upcase()", "toLowerCase()", "none of the above"],
+      "answer": 0,
+      "explanation": "The lower() method is used to convert all characters of a string to lowercase."
+    },
+    {
+      "question": "What is the purpose of the 'self' parameter in Python class methods?",
+      "options": ["It refers to the instance of the class", "It is used to define a class", "It is used for inheritance", "None of the above"],
+      "answer": 0,
+      "explanation": "'self' refers to the instance of the class, allowing access to its attributes and methods."
+    },
+    {
+      "question": "What will be the output of print(10 % 3)?",
+      "options": ["3", "1", "0", "None of the above"],
+      "answer": 1,
+      "explanation": "The '%' operator returns the remainder of the division, so 10 % 3 equals 1."
+    },
+    {
+      "question": "Which of the following is used to define a generator in Python?",
+      "options": ["yield", "return", "generate", "gen"],
+      "answer": 0,
+      "explanation": "In Python, the 'yield' keyword is used to define a generator."
+    },
+    {
+      "question": "How can you define a list in Python?",
+      "options": ["list = []", "list = ()", "list = {}", "list = set()"],
+      "answer": 0,
+      "explanation": "Lists are defined using square brackets [] in Python."
+    },
+    {
+      "question": "What is the purpose of the 'break' statement in Python?",
+      "options": ["It terminates the loop immediately", "It pauses the loop", "It skips the current iteration", "None of the above"],
+      "answer": 0,
+      "explanation": "The 'break' statement is used to terminate the loop immediately."
+    },
+    {
+      "question": "What is the correct syntax to declare a variable in Python?",
+      "options": ["var = value", "value := var", "declare var = value", "None of the above"],
+      "answer": 0,
+      "explanation": "In Python, variables are declared by assigning a value to a name using the '=' operator."
+    }
+  ]
+}

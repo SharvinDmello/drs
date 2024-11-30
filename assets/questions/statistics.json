@@ -1,0 +1,166 @@
+{
+  "questions": [
+    {
+      "question": "What is the mean of a data set?",
+      "options": ["The middle value", "The sum of all values divided by the number of values", "The most frequent value", "None of the above"],
+      "answer": 1,
+      "explanation": "The mean is the sum of all values divided by the number of values in the data set."
+    },
+    {
+      "question": "What is the median of a data set?",
+      "options": ["The middle value when the data is arranged in ascending order", "The average of all values", "The value that occurs most frequently", "None of the above"],
+      "answer": 0,
+      "explanation": "The median is the middle value when the data is arranged in ascending order."
+    },
+    {
+      "question": "What is the mode of a data set?",
+      "options": ["The most frequent value", "The average of all values", "The middle value", "None of the above"],
+      "answer": 0,
+      "explanation": "The mode is the most frequent value in a data set."
+    },
+    {
+      "question": "What is the variance of a data set?",
+      "options": ["The square of the standard deviation", "The average of the differences from the mean", "The sum of squared deviations divided by the number of observations", "None of the above"],
+      "answer": 2,
+      "explanation": "Variance is the sum of squared deviations from the mean, divided by the number of observations."
+    },
+    {
+      "question": "What is the standard deviation?",
+      "options": ["The square root of the variance", "The sum of the deviations from the mean", "The average deviation", "None of the above"],
+      "answer": 0,
+      "explanation": "Standard deviation is the square root of the variance."
+    },
+    {
+      "question": "What is a probability distribution?",
+      "options": ["A table showing all possible outcomes", "A function that describes the likelihood of different outcomes", "A set of events", "None of the above"],
+      "answer": 1,
+      "explanation": "A probability distribution describes the likelihood of different outcomes in a random experiment."
+    },
+    {
+      "question": "What is the normal distribution?",
+      "options": ["A bell-shaped curve that is symmetric about the mean", "A uniform distribution", "A distribution with a skewed shape", "None of the above"],
+      "answer": 0,
+      "explanation": "The normal distribution is a bell-shaped curve that is symmetric about the mean."
+    },
+    {
+      "question": "What is a z-score?",
+      "options": ["The number of standard deviations a value is from the mean", "The variance of a data set", "The mean of a data set", "None of the above"],
+      "answer": 0,
+      "explanation": "A z-score measures how many standard deviations a value is from the mean."
+    },
+    {
+      "question": "What is a correlation coefficient?",
+      "options": ["A measure of the relationship between two variables", "The slope of a regression line", "The mean of a data set", "None of the above"],
+      "answer": 0,
+      "explanation": "The correlation coefficient measures the strength and direction of the relationship between two variables."
+    },
+    {
+      "question": "What is a regression line?",
+      "options": ["A straight line that best fits the data points", "A curve that represents the trend in the data", "The average of all values", "None of the above"],
+      "answer": 0,
+      "explanation": "A regression line is a straight line that best fits the data points in a scatter plot."
+    },
+    {
+      "question": "What is the central limit theorem?",
+      "options": ["The sampling distribution of the sample mean approaches a normal distribution as the sample size increases", "The mean of the sample is equal to the population mean", "The variance of the sample is the same as the population variance", "None of the above"],
+      "answer": 0,
+      "explanation": "The central limit theorem states that the sampling distribution of the sample mean approaches a normal distribution as the sample size increases."
+    },
+    {
+      "question": "What is hypothesis testing?",
+      "options": ["A method for testing the validity of a hypothesis using sample data", "A method for calculating the variance", "A way of estimating the population mean", "None of the above"],
+      "answer": 0,
+      "explanation": "Hypothesis testing is a method used to test the validity of a hypothesis using sample data."
+    },
+    {
+      "question": "What is a p-value?",
+      "options": ["The probability of observing the data given that the null hypothesis is true", "The variance of the data", "The probability of a type II error", "None of the above"],
+      "answer": 0,
+      "explanation": "The p-value is the probability of observing the data given that the null hypothesis is true."
+    },
+    {
+      "question": "What is a type I error?",
+      "options": ["Rejecting the null hypothesis when it is true", "Failing to reject the null hypothesis when it is false", "Both a and b", "None of the above"],
+      "answer": 0,
+      "explanation": "A type I error occurs when we reject the null hypothesis when it is actually true."
+    },
+    {
+      "question": "What is a type II error?",
+      "options": ["Failing to reject the null hypothesis when it is false", "Rejecting the null hypothesis when it is true", "Both a and b", "None of the above"],
+      "answer": 0,
+      "explanation": "A type II error occurs when we fail to reject the null hypothesis when it is actually false."
+    },
+    {
+      "question": "What is the chi-square test used for?",
+      "options": ["Testing the relationship between two categorical variables", "Testing the difference between two means", "Testing the variance of a population", "None of the above"],
+      "answer": 0,
+      "explanation": "The chi-square test is used to test the relationship between two categorical variables."
+    },
+    {
+      "question": "What is the null hypothesis?",
+      "options": ["The hypothesis that there is no effect or no difference", "The hypothesis that there is a significant effect", "The hypothesis that the sample mean equals the population mean", "None of the above"],
+      "answer": 0,
+      "explanation": "The null hypothesis is the hypothesis that there is no effect or no difference."
+    },
+    {
+      "question": "What is the alternative hypothesis?",
+      "options": ["The hypothesis that there is a significant effect or difference", "The hypothesis that there is no effect", "The hypothesis that the sample mean equals the population mean", "None of the above"],
+      "answer": 0,
+      "explanation": "The alternative hypothesis is the hypothesis that there is a significant effect or difference."
+    },
+    {
+      "question": "What is the purpose of a confidence interval?",
+      "options": ["To estimate a range of values for a population parameter", "To calculate the sample mean", "To calculate the sample variance", "None of the above"],
+      "answer": 0,
+      "explanation": "A confidence interval is used to estimate a range of values for a population parameter."
+    },
+    {
+      "question": "What is a t-distribution?",
+      "options": ["A probability distribution that is used when the sample size is small and the population variance is unknown", "A normal distribution", "A uniform distribution", "None of the above"],
+      "answer": 0,
+      "explanation": "A t-distribution is used when the sample size is small and the population variance is unknown."
+    },
+    {
+      "question": "What is a sample?",
+      "options": ["A subset of a population", "The entire population", "A type of probability distribution", "None of the above"],
+      "answer": 0,
+      "explanation": "A sample is a subset of a population that is used to make inferences about the population."
+    },
+    {
+      "question": "What is the difference between descriptive and inferential statistics?",
+      "options": ["Descriptive statistics summarizes data, while inferential statistics makes predictions about a population based on a sample", "Descriptive statistics makes predictions, while inferential statistics summarizes data", "There is no difference", "None of the above"],
+      "answer": 0,
+      "explanation": "Descriptive statistics summarizes data, while inferential statistics makes predictions about a population based on a sample."
+    },
+    {
+      "question": "What is the probability of rolling a 3 on a fair six-sided die?",
+      "options": ["1/6", "1/2", "1/3", "1/4"],
+      "answer": 0,
+      "explanation": "The probability of rolling a 3 on a fair six-sided die is 1/6."
+    },
+    {
+      "question": "What does it mean for events to be mutually exclusive?",
+      "options": ["They cannot occur at the same time", "They always occur at the same time", "They are independent of each other", "None of the above"],
+      "answer": 0,
+      "explanation": "Mutually exclusive events cannot occur at the same time."
+    },
+    {
+      "question": "What is Bayes' theorem used for?",
+      "options": ["Calculating conditional probabilities", "Finding the mean of a distribution", "Testing a hypothesis", "None of the above"],
+      "answer": 0,
+      "explanation": "Bayes' theorem is used to calculate conditional probabilities."
+    },
+    {
+      "question": "What is the Law of Large Numbers?",
+      "options": ["As the sample size increases, the sample mean approaches the population mean", "The mean of a sample is always equal to the population mean", "As the sample size decreases, the sample mean approaches the population mean", "None of the above"],
+      "answer": 0,
+      "explanation": "The Law of Large Numbers states that as the sample size increases, the sample mean approaches the population mean."
+    },
+    {
+      "question": "What is a Bernoulli trial?",
+      "options": ["An experiment with only two possible outcomes", "An experiment with multiple outcomes", "An experiment with a fixed probability", "None of the above"],
+      "answer": 0,
+      "explanation": "A Bernoulli trial is an experiment with only two possible outcomes, often referred to as success or failure."
+    }
+  ]
+}

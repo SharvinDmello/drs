@@ -1,0 +1,254 @@
+{
+  "questions": [
+    {
+      "question": "What is Flutter?",
+      "options": ["A framework for building cross-platform apps", "A programming language", "A game engine", "A database management system"],
+      "answer": 0
+    },
+    {
+      "question": "Which programming language is used to write Flutter applications?",
+      "options": ["Java", "C++", "Dart", "Swift"],
+      "answer": 2
+    },
+    {
+      "question": "Which company developed Flutter?",
+      "options": ["Google", "Apple", "Microsoft", "Amazon"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is NOT a widget in Flutter?",
+      "options": ["Container", "Text", "TableView", "Column"],
+      "answer": 2
+    },
+    {
+      "question": "What is the purpose of the 'State' class in Flutter?",
+      "options": ["To manage the data of an app", "To manage the UI of an app", "To manage the app's configuration", "To handle background processes"],
+      "answer": 1
+    },
+    {
+      "question": "Which method is used to run a Flutter app?",
+      "options": ["runApp()", "startApp()", "initApp()", "beginApp()"],
+      "answer": 0
+    },
+    {
+      "question": "What is a StatelessWidget?",
+      "options": ["A widget that has mutable state", "A widget that has fixed state", "A widget used to display images", "A widget for handling user input"],
+      "answer": 1
+    },
+    {
+      "question": "What does the 'build' method in Flutter do?",
+      "options": ["It initializes the app", "It runs the app", "It defines the widget tree", "It displays the app's UI"],
+      "answer": 2
+    },
+    {
+      "question": "What is the primary function of the 'pubspec.yaml' file in Flutter?",
+      "options": ["Managing app settings", "Managing app dependencies", "Managing app resources", "Managing app layout"],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following widgets is used for creating an app bar in Flutter?",
+      "options": ["AppBar", "Toolbar", "Navbar", "Header"],
+      "answer": 0
+    },
+    {
+      "question": "Which widget is used to create a scrollable list of items in Flutter?",
+      "options": ["ListView", "GridView", "Column", "Row"],
+      "answer": 0
+    },
+    {
+      "question": "Which widget in Flutter is used to create an input field?",
+      "options": ["TextField", "TextFormField", "InputField", "FormField"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a navigation widget in Flutter?",
+      "options": ["Navigator", "Router", "Route", "PageView"],
+      "answer": 0
+    },
+    {
+      "question": "How do you add padding around a widget in Flutter?",
+      "options": ["Padding", "Margin", "Container", "Spacer"],
+      "answer": 0
+    },
+    {
+      "question": "Which function is used to navigate to a new screen in Flutter?",
+      "options": ["push()", "navigate()", "moveTo()", "pushNamed()"],
+      "answer": 0
+    },
+    {
+      "question": "What does the 'setState' function do in Flutter?",
+      "options": ["Updates the UI with new state", "Sets the app state", "Sets the widget's layout", "Saves the app's state"],
+      "answer": 0
+    },
+    {
+      "question": "Which widget is used to create a clickable button in Flutter?",
+      "options": ["Button", "RaisedButton", "FlatButton", "ElevatedButton"],
+      "answer": 3
+    },
+    {
+      "question": "What does the 'FutureBuilder' widget do in Flutter?",
+      "options": ["Handles asynchronous data", "Builds widgets based on conditions", "Builds a layout based on events", "Used for creating lists of widgets"],
+      "answer": 0
+    },
+    {
+      "question": "What is the purpose of the 'MaterialApp' widget in Flutter?",
+      "options": ["To manage navigation", "To provide a base widget for Material Design apps", "To store app data", "To handle screen transitions"],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is used to manage state in Flutter?",
+      "options": ["StatefulWidget", "StatelessWidget", "InheritedWidget", "Provider"],
+      "answer": 0
+    },
+    {
+      "question": "What is 'Hot Reload' in Flutter?",
+      "options": ["Reloading the app from the beginning", "Instantly refreshing the app without losing state", "Refreshing the app's data", "Restarting the app's state"],
+      "answer": 1
+    },
+    {
+      "question": "What is a 'ListView' in Flutter?",
+      "options": ["A scrollable list of widgets", "A fixed list of items", "A widget used to display images", "A fixed-length container"],
+      "answer": 0
+    },
+    {
+      "question": "How do you make an image widget in Flutter?",
+      "options": ["Image()", "ImageWidget()", "ImageView()", "AssetImage()"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following widgets allows you to align children inside a container in Flutter?",
+      "options": ["Align", "Padding", "Row", "Stack"],
+      "answer": 0
+    },
+    {
+      "question": "What is the purpose of the 'Future' class in Dart/Flutter?",
+      "options": ["It represents a value that might not be available yet", "It represents the app's future state", "It defines the UI structure", "It handles asynchronous processes"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is used for gestures like tapping or swiping in Flutter?",
+      "options": ["GestureDetector", "TapDetector", "ClickDetector", "SwipeDetector"],
+      "answer": 0
+    },
+    {
+      "question": "How can you store persistent data in Flutter?",
+      "options": ["SharedPreferences", "SQLite", "File storage", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "What is the 'InheritedWidget' used for in Flutter?",
+      "options": ["To pass data down the widget tree", "To create a new widget", "To store state locally", "To manage app navigation"],
+      "answer": 0
+    },
+    {
+      "question": "Which Flutter widget is used for creating tabs?",
+      "options": ["TabBar", "Tabs", "TabView", "TabBarView"],
+      "answer": 0
+    },
+    {
+      "question": "Which widget allows you to display a list of items in a grid?",
+      "options": ["GridView", "Column", "Row", "Stack"],
+      "answer": 0
+    },
+    {
+      "question": "What is the 'StreamBuilder' widget used for?",
+      "options": ["Displaying streams of data", "Building widgets asynchronously", "Handling user input", "Building responsive UIs"],
+      "answer": 0
+    },
+    {
+      "question": "Which function in Flutter is used to add a route to the app?",
+      "options": ["Navigator.push", "Navigator.pushNamed", "Navigator.addRoute", "Navigator.add"],
+      "answer": 1
+    },
+    {
+      "question": "What does 'flutter clean' do?",
+      "options": ["Removes the build folder", "Resets app configurations", "Deletes unnecessary files", "Cleans up app cache"],
+      "answer": 0
+    },
+    {
+      "question": "Which widget is used to display a snack bar in Flutter?",
+      "options": ["SnackBar", "Snack", "SnackMessage", "Alert"],
+      "answer": 0
+    },
+    {
+      "question": "Which class is used for creating a page route in Flutter?",
+      "options": ["MaterialPageRoute", "Route", "PageRoute", "NavigatorRoute"],
+      "answer": 0
+    },
+    {
+      "question": "Which widget is used to create a vertical or horizontal list of widgets in Flutter?",
+      "options": ["ListView", "Column", "Row", "Stack"],
+      "answer": 1
+    },
+    {
+      "question": "What is the purpose of the 'Container' widget in Flutter?",
+      "options": ["To hold and style other widgets", "To display text", "To manage navigation", "To create lists"],
+      "answer": 0
+    },
+    {
+      "question": "What is the default layout behavior for widgets in Flutter?",
+      "options": ["Widgets are stacked vertically", "Widgets are stacked horizontally", "Widgets are arranged in a grid", "Widgets are arranged randomly"],
+      "answer": 0
+    },
+    {
+      "question": "Which Flutter widget is used to handle user input events?",
+      "options": ["GestureDetector", "TextField", "FormField", "InputField"],
+      "answer": 0
+    },
+    {
+      "question": "Which package is used to work with Firebase in Flutter?",
+      "options": ["firebase_core", "firebase_database", "cloud_firestore", "All of the above"],
+      "answer": 3
+    },
+    {
+      "question": "How do you display a dialog box in Flutter?",
+      "options": ["showDialog()", "showAlertDialog()", "showPopup()", "createDialog()"],
+      "answer": 0
+    },
+    {
+      "question": "Which Flutter widget is used to make a widget scrollable?",
+      "options": ["Scrollable", "ListView", "Container", "Text"],
+      "answer": 1
+    },
+    {
+      "question": "What does the 'Text' widget in Flutter do?",
+      "options": ["Displays text", "Displays an image", "Displays a form", "Handles input events"],
+      "answer": 0
+    },
+    {
+      "question": "What does 'flutter run' command do?",
+      "options": ["Compiles and launches the app", "Runs the Flutter build tool", "Starts a local server", "Initializes the Flutter environment"],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is NOT a common Flutter layout widget?",
+      "options": ["Column", "Row", "Container", "Panel"],
+      "answer": 3
+    },
+    {
+      "question": "What is a 'Stream' in Flutter?",
+      "options": ["A sequence of asynchronous events", "A sequence of synchronous events", "A background process", "A function for handling UI updates"],
+      "answer": 0
+    },
+    {
+      "question": "What does the 'dispose()' method do in a Flutter app?",
+      "options": ["Cleans up resources when a widget is removed", "Initializes the widget", "Sets up a widget's state", "Loads widget data"],
+      "answer": 0
+    },
+    {
+      "question": "What is the purpose of the 'scaffold' widget in Flutter?",
+      "options": ["To provide a basic app layout structure", "To handle screen navigation", "To display the app's title", "To manage app settings"],
+      "answer": 0
+    },
+    {
+      "question": "Which method is used to handle form validation in Flutter?",
+      "options": ["validate()", "checkForm()", "submitForm()", "validateForm()"],
+      "answer": 0
+    },
+    {
+      "question": "Which widget is used to create a flexible layout in Flutter?",
+      "options": ["Flex", "Flexible", "Column", "Row"],
+      "answer": 1
+    }
+  ]
+}
